@@ -2,7 +2,7 @@ package vn.edu.giadinh;
 import java.util.Scanner;
 import java.util.Calendar;
 
-public class Menu {
+public class Menu { //Thay cái mới nè
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
